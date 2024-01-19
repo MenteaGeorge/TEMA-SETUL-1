@@ -11,7 +11,7 @@ namespace ASC_SETUL_1
         static void Main(string[] args)
         {
             //Problema1();
-            Problema2();
+            //Problema2();
             //Problema3();
             //Problema4();
             //Problema5();
